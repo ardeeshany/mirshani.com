@@ -9380,13 +9380,13 @@ a.nav-link {
   font-size: 0.9rem;
   color: #338f8c;
   border-color: #389d9a;
-  background-color: #e5f6f5; }
+  background-color: #e0f4f3; }
 
 .btn.btn-outline-primary.my-1.mr-1:hover {
   border-radius: 8px;
   /*undo rounded corners*/
   font-size: 0.9rem;
-  color: #e0f4f3;
+  color: #eff9f9;
   border-color: #389d9a;
   background-color: #2a7674; }
 
