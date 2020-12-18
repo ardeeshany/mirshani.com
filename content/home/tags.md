@@ -4,7 +4,7 @@
 widget: tag_cloud
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Popular Topics
+title: My favorite keywords
 subtitle:
 
 content:

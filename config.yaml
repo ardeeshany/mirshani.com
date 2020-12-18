@@ -1,7 +1,7 @@
 theme: starter-academic
-title: Ardalan's HomePage
+title: Ardalan Mirshani
 baseurl: https://mirshani.com/
-copyright: ''
+copyright: '&copy; Ardalan Mirshani {year}'
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no

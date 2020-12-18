@@ -1,0 +1,99 @@
+body {
+  color: #173e43;
+}
+
+.navbar {
+    background-color: red;
+    box-shadow: 0 0 40px rgba(252, 252, 252, 0.76);
+    text-transform: uppercase;
+    background-image: linear-gradient(to bottom, #E9E9E6,  #E9E9E6) !important;  
+    letter-spacing: .09em;
+   	font-size: 1.05em;
+}
+
+a.nav-link:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.'; /* make invisible, dot beneath links */
+  color: transparent;
+  background: red;
+  height: 2px;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+.navbar {
+  min-height: 100px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+  letter-spacing: 0.04em;
+  color: #173e43 !important;
+}
+
+.portrait-title h2 {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #000000;
+  margin: 20px 0 10px 0;
+}
+
+.portrait-title h3 {
+  font-size: 1rem;
+  font-weight: 300;
+  color: rgba(0,0,0, 0.54) !important;
+  margin: 0px 0 10px 0;
+}
+
+/* links */
+
+a:active, 
+a:focus, 
+a:hover {
+  color: #004346;
+}
+
+/* nav */
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+	color: #06805E;
+}
+
+.navbar {
+  box-shadow: none;
+  text-transform: uppercase;
+	letter-spacing: .1em;
+	font-size: .9em;
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+  font-weight: 500;
+	letter-spacing: .1em;
+}
+
+/*----NAV LINK HOVER ANIMATION -----*/
+/* from Desiree: https://github.com/dcossyleon/blogdown_desiree/blob/master/assets/scss/custom.scss */
+
+/* stroke */
+
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all .5s;
+}
+
+a.nav-link {
+  position: relative;
+}
+

@@ -5,21 +5,21 @@ name = "ardalan"
 light = true
 
 # Primary
-primary ="#06805E"
-primary_light = "#ee5863"
+primary = "#173e43"
+primary_light = "#F8E5E5"
 primary_dark = "#ee5863"
 
 # Links
-link = "#999999"
-link_hover = "#111111"
+link = "#3fb0ac"
+link_hover = "#173e43"
 
 # Menu
-menu_primary = "#fcfcfc00" 
-menu_text = "#999999"
-menu_text_active = "#111111"
-menu_title = "#111111"
+menu_primary = "#173e43"          # chenge navbar color in scss/custom.scss/background_image
+menu_text = "#173e43"
+menu_text_active = "#173e43"
+menu_title = "#173e43"
 
 # Backgrounds
-background = "#fcfcfc"
-home_section_odd = "#fcfcfc"
-home_section_even = "#fcfcfcF"
+background = "#E9E9E6"            # footer and other page bg
+home_section_odd = "#E9E9E6"      # odd widget color  ~ main page
+home_section_even = "red"         # even widget color

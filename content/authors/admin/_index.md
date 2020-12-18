@@ -1,12 +1,11 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 education:
   courses:
   - course: PhD in Statistics
     institution: Pennsylvania State University
     year: 2014 - 2019
-  - course: M.Sc in MAthematics
+  - course: M.Sc in Mathematics
     institution: Sharif University of Technology
     year: 2011 - 2013
   - course: BSc in Electrical Engineering
@@ -16,8 +15,9 @@ email: ""
 highlight_name: false
 interests:
 - Reproducible workflows
-- R-package development
-- Shiny app expert 
+- Data visualization / modeling
+- Shiny app development
+- Data Education
 organizations:
 - name: Novartis
   url: https://www.novartis.com/our-science/novartis-institutes-biomedical-research/
@@ -25,7 +25,7 @@ role: Sr Expert Data Science
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact  
+  link: mailto:ardeeshany@gmail.com  
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ArdalanMirshani
@@ -42,16 +42,13 @@ social:
   icon_pack: ai
   link: /media/Ardalan_CV.pdf
 superuser: true
-title: Ardalan Mirshani
+title: 
 user_groups:
 - Principal Investigators
 ---
 
-<div style="font-family: Lato">
-I am a <b style="color: #009594;">Data Scientist</b> and <b style="color: #009594;">Statistical web app</b> developer with an
-interest on developing scientific tools, creating reproducible workflows, and
-automating repetitive tasks that arise during all data wrangling,
-exploring, visualizing, modeling, and reporting processes. I work in <i class="fab fa-r-project" style="color: #009594;"></i> & <i class="fab fa-python" style="color: #009594;"></i> and am an expert <b style="color: #009594;">Shiny</b> app developer. I am exploring <b style="color: #009594;">Julia</b> as my new language.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Ardalan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
-</div>
+My name is Ardalan Mirshani and I am a PhD <span style="color: #173e43;">Data Scientist</span> and <span style="color: #173e43;">Statistical web app</span> developer with an
+interest on developing scientific tools, creating reproducible analyses and workflows, and automating repetitive tasks that arise during all data wrangling,
+exploring, visualizing, modeling, and reporting processes. I work in <i class="fab fa-r-project" style="color: #2b737c;"></i> & <i class="fab fa-python" style="color: #2b737c;"></i> and am an expert in <span style="color: #2b737c;">Shiny</span> app development.
+
