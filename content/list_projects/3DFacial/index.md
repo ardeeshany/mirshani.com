@@ -1,23 +1,22 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2017-04-27T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point:
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/ArdalanMirshani
-slides: example
 summary: Developed a Shiny app for exploring privacy in 3D facial data.
 tags:
 - Shiny app
+links:
+- icon: file
+  pack: far
+  name: Article
+  url: http://proceedings.mlr.press/v97/mirshani19a.html
+- icon: desktop
+  icon_pack: fas
+  name: Shiny app
+  url: https://ardeeshany.shinyapps.io/private_face/
 title: Data Privacy in 3D Facial Imaging
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 ---
 
 Developed a Shiny app for exploring privacy in 3D facial data.
