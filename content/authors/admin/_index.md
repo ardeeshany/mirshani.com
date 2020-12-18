@@ -48,7 +48,7 @@ user_groups:
 ---
 
 
-My name is Ardalan Mirshani and I am a PhD <span style="color: #173e43;">Data Scientist</span> and <span style="color: #173e43;">Statistical web app</span> developer with an
+Hi! My name is Ardalan Mirshani and I am a PhD <span style="color: #173e43;">Data Scientist</span> and <span style="color: #173e43;">Statistical web app</span> developer with an
 interest on developing scientific tools, creating reproducible analyses and workflows, and automating repetitive tasks that arise during all data wrangling,
 exploring, visualizing, modeling, and reporting processes. I work in <i class="fab fa-r-project" style="color: #2b737c;"></i> & <i class="fab fa-python" style="color: #2b737c;"></i> and am an expert in <span style="color: #2b737c;">Shiny</span> app development.
 

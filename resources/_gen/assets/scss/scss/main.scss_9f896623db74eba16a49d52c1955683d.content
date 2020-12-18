@@ -9367,3 +9367,40 @@ a.nav-link:before {
 
 a.nav-link {
   position: relative; }
+
+/* buttons */
+.btn.btn-sm, .btn-group-sm > .btn {
+  border-radius: 0rem;
+  /*undo rounded corners*/
+  font-size: 0.8rem; }
+
+.btn.btn-outline-primary.my-1.mr-1 {
+  border-radius: 8px;
+  /*undo rounded corners*/
+  font-size: 0.9rem;
+  color: #389d9a;
+  border-color: #389d9a;
+  background-color: #e5f6f5; }
+
+.btn.btn-outline-primary.my-1.mr-1:hover {
+  border-radius: 8px;
+  /*undo rounded corners*/
+  font-size: 0.9rem;
+  color: #d6f0f0;
+  border-color: #389d9a;
+  background-color: #2a7674; }
+
+.btn {
+  font-family: Lora;
+  text-transform: CamelCase;
+  font-style: italic;
+  border-radius: 0px; }
+
+.btn-toolbar .btn:first-child {
+  border-radius: 0px; }
+
+.btn-toolbar .btn:last-child {
+  border-radius: 0px; }
+
+.btn-toolbar {
+  justify-content: center; }
